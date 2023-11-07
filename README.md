@@ -1,4 +1,4 @@
-## Challenge # 02 UT Bootcamp Advanced CSS: Portfolio
+### Challenge # 02 UT Bootcamp Advanced CSS: Portfolio
 
 ## Description
 
